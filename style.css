@@ -1,0 +1,34 @@
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+ul li {
+  list-style: none;
+  height: 33.33vh;
+  width: 100vw;
+}
+
+#orange, #white, #green {
+  height: 100%;
+}
+
+#orange {
+  background-color: #FB8C00;
+}
+
+#green {
+  background-color: green;
+}
+
+#white {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+span {
+  color: blue;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 80px;
+} 
